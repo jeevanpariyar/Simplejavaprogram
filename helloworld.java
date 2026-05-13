@@ -8,7 +8,7 @@ public class helloworld {
         LocalDate date = LocalDate.of(2026, 1, 26);
         
         // Print information about January 26 2050
-        System.out.println("=== Information about January 26, 2050 ===");
+        System.out.println("=== Information about this month January 26, 2050 ===");
         System.out.println("Date: " + date);
         System.out.println("Day of Week: " + date.getDayOfWeek());
         System.out.println("Month: " + date.getMonth());
